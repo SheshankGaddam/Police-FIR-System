@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Police FIR System</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Aadhar/Id</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Vaild Aadhar</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create Account</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Aadhar Already Exists</string>
+    <string name="error_password_match">Passwords Do Not Match</string>
+    <string name="error_vaild_email_password">Wrong Aadhar or Password</string>
+
+    <string name="title_homepage">Home</string>
+    <string name="title_complaintpage">Register an FIR</string>
+    <string name="title_complainthstry">Complaint History</string>
+    <string name="title_loginpage">Login</string>
+    <string name="title_adminloginpage">Police Login</string>
+    <string name="title_editaccount">Change Id</string>
+    <string name="title_about">About</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    <string name="intro">
+        The App is built by VIT AP Students who is pursuing AGILE DEvelopment course under
+        Prof.Hussain Syed - School of Computer Science Engineering (SCOPE). Here, in this
+        app you will be able to issue an FIR on different categories like Crime, Accident,
+        and the other is related issues/complaints.The issue you registered will be able to
+        seen by Government authorities (Police Officers). It helps Police to auto register
+        an FIR and able to take immediate action by the Police like either accept the issue
+        or simply delete if it finds Unnecessary. </string>
+
+    <string name="about">
+    About our project
+    </string>
+
+    <string name="header2">Government Best Solution For Police Service</string>
+
+    <string name="content">
+       The Students of VIT-AP University, Amaravati who are involved
+        in the development of the Police FIR System are:\n\n
+        Sai Shashank Turlapati - 17MIS7102\n
+        Sai Sheshank Gaddam - 17MIS7099\n
+        Priyatham Bikumalla - 17MIS7078\n\n\n
+
+        Under the guidance of the Professor,\n\n
+        HUSSAIN SYED   M.TECH, (Ph.D), MIAENG, MCSTA, MCSI\n
+        Asst.Professor(S.G) and Faculty Coordinator for CSI-Chapter, VIT AP.\n
+        CSE Department,\n
+        VIT-AP.
+
+
+
+    </string>
+
+    <string name="home_intro_text">Briefing on Police FIR System</string>
+    <string name="home_acctSetting_text">View users profile and edit your account setting</string>
+    <string name="complaintHistory_text">View all FIR complaints </string>
+    <string name="makeComplaint_text">Make your complaints here</string>
+    <string name="your_current_password">Current Password</string>
+    <string name="your_old_email">Your Old Id</string>
+    <string name="title_activity_edit_complaint">Edit FIR</string>
+    <string name="police_fir">About Police FIR System</string>
+    <string name="police_id">Police ID</string>
+    <string name="aadhar_id">Aadhar</string>
+    <string name="enter_aadhar">Enter your Aadhar</string>
+    <string name="aadhar_register">Enter Aadhar</string>
+    <string name="login_id">Aadhar</string>
+    <string name="confirm_email">Confirm Email/Aadhar</string>
+    <string name="cat1">Crime</string>
+    <string name="cat2">Accident</string>
+    <string name="sub1">Rape</string>
+    <string name="sub2">Murder</string>
+    <string name="location">Police Station Location</string>
+    <string name="lawyer_info">Have a Lawyer</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="subject">Subject of the Complaint</string>
+    <string name="descrip">FIR Complaint Description (max 500words)</string>
+    <string name="submit">Submit the FIR</string>
+</resources>
